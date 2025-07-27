@@ -74,6 +74,9 @@ LICENSE                         // MIT License
 3. **Compile and run:**
    - Open the project in your IDE.
    - Run `main_Class.java` or `Login.java` to start the application.
+   - `cd D:\devlopment\Bank-Management-System-\out\production\Bank_Management_System`
+   - `java bank.management.system.main_Class`
+
 
 ## License
 
