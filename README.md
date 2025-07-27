@@ -20,6 +20,17 @@ A Java-based desktop application simulating core functionalities of a bank, such
 - **JDBC**: For database operations (assumes backend database connectivity).
 - **OOP Principles**: Modular classes for each major operation (`Deposit`, `Withdrawl`, `FastCash`, `BalanceEnquriy`, `mini`, etc.).
 
+## Screenshots
+
+Below are some screenshots from the `img` folder demonstrating the application's interface:
+
+<div align="center">
+  <img src="img/atm_interface.png" alt="ATM Interface" width="600"/>
+  <p><em>Main ATM Interface</em></p>
+</div>
+
+> _Add or update screenshot images in the `img` folder as needed for your project._
+
 ## Directory Structure
 
 ```
@@ -33,6 +44,13 @@ src/bank/management/system/
     |- BalanceEnquriy.java       // Balance enquiry window
     |- Signup3.java              // Account creation (step 3: account/services selection)
     |- ... (other supporting classes)
+img/
+    |- login_screen.png
+    |- atm_interface.png
+    |- deposit_screen.png
+    |- withdraw_screen.png
+    |- ... (other images)
+LICENSE                         // MIT License
 ```
 
 ## Getting Started
@@ -52,23 +70,16 @@ src/bank/management/system/
    ```
 
 2. **Set up the database:**
-   - Create a database and configure the JDBC connection in the `Connn` class (not shown above).
+   - Create a database and configure the JDBC connection in the `Connn` class.
    - Ensure tables for users, accounts, and transactions exist.
 
 3. **Compile and run:**
    - Open the project in your IDE.
    - Run `main_Class.java` or `Login.java` to start the application.
-   - `cd D:\devlopment\Bank-Management-System-\out\production\Bank_Management_System`
-   - `java bank.management.system.main_Class`
-
-
-## Screenshots
-
-> _Add screenshots of the login screen, dashboard, and transaction windows here for better understanding._
 
 ## License
 
-_This project currently does not have a license specified. Please add one if you intend to share or reuse._
+This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
