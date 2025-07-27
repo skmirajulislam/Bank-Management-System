@@ -33,7 +33,7 @@ public class Signup extends JFrame implements ActionListener {
         add(label1);
 
         JLabel label2 = new JLabel("Page 1");
-        label2.setFont(new Font("Ralway",Font.BOLD, 22));
+        label2.setFont(new Font("Raleway",Font.BOLD, 22));
         label2.setBounds(330,70,600,30);
         add(label2);
 
@@ -237,3 +237,6 @@ public class Signup extends JFrame implements ActionListener {
         new Signup();
     }
 }
+
+
+
