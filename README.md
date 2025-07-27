@@ -25,11 +25,9 @@ A Java-based desktop application simulating core functionalities of a bank, such
 Below are some screenshots from the `img` folder demonstrating the application's interface:
 
 <div align="center">
-  <img src="img/atm_interface.png" alt="ATM Interface" width="600"/>
+  <img src="img/image.png" alt="ATM Interface" width="600"/>
   <p><em>Main ATM Interface</em></p>
 </div>
-
-> _Add or update screenshot images in the `img` folder as needed for your project._
 
 ## Directory Structure
 
