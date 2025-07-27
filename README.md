@@ -1,4 +1,4 @@
-# Bank Management System
+# Bank Management System ( Virtual ATM)
 
 A Java-based desktop application simulating core functionalities of a bank, such as ATM transactions, account management, and balance enquiry, built using Swing for the GUI.
 
